@@ -1,0 +1,21 @@
+.container {
+  padding: 16px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.grafico {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 32px;
+  flex-direction: column;
+}
+
+.legenda {
+  color: tomato;
+}
